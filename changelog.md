@@ -5,6 +5,14 @@
 - Gabriel Yip
 
 ## [Unreleased]
+## [V4.0.0] - 2017-12-02 (GY)
+### Added
+- Job controller to handle restful
+- Third party restful
+### Removed
+- Much of the Controllers have been removed from backend
+
+## [Unreleased]
 ## [V3.0.3] - 2017-11-17 (GY)
 ### Added
 - Added store method to XML_Model
