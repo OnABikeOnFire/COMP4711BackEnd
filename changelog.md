@@ -5,6 +5,13 @@
 - Gabriel Yip
 
 ## [Unreleased]
+## [V4.0.2] - 2017-11-17 (GY)
+### Added
+- Backend functionality
+### Others
+- Why is this 4.0.2? because this is the third iteration after many times of trying to fix it.
+
+## [Unreleased]
 ## [V3.0.3] - 2017-11-17 (GY)
 ### Added
 - Added store method to XML_Model
